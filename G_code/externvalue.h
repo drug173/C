@@ -1,0 +1,6 @@
+#ifndef EXTERNVALUE_H
+#define EXTERNVALUE_H
+
+
+
+#endif // EXTERNVALUE_H
