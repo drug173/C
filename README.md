@@ -1,5 +1,5 @@
 ## Код Си C++
-<div align="center">
+<div>
   <img src="https://github.com/drug173/drug173/blob/main/image/C%2B%2B.jpeg" width="250" height="150"/>
 </div>
 
