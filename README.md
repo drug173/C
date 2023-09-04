@@ -1,4 +1,7 @@
 ## Код Си C++
+<div align="center">
+  <img src="https://github.com/drug173/drug173/blob/main/image/C%2B%2B.jpeg" width="250" height="150"/>
+</div>
 
 #### TreeModel (Qt C++) - представление таблицы базы данных в виде дерева
 
